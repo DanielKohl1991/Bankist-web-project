@@ -1,4 +1,19 @@
-Project of the banking application webpage from the "The Complete JavaScript Course 2024: From Zero to Expert!"
+Bankist web project
+=======================
+
+Description:
+-----------
+The Bankist Website is a fictional online banking website that allows users to view their account balances, transfer money, request loans, and close their accounts.
+
+Bankist Website includes several features such as lazy loading images, a sticky navigation bar, smooth scrolling, and a slider for showcasing users reviews.
+
+Languages and Utilities Used
+-----------
+* JavaScript
+
+Environments Used
+-----------
+* Visual Studio Code
 
 
 
